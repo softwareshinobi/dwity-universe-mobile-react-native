@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "DwityUniverse",
-    "slug": "dwity-universe",
+    "slug": "dwity-universe-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "86525a5e-0c32-4a1a-9e72-3bec9d594655"
+      }
+    },
+    "owner": "softwareshinobi"
   }
 }
